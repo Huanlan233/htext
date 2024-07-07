@@ -349,7 +349,7 @@ uglyURLs = false
     # 站点信息
 
     # 站点的 LOGO
-    siteLogo = "./apple-touch-icon.png"
+    siteLogo = "./icons/apple-touch-icon.png"
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述

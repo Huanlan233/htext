@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Huanlan233&#39;s Texts</title>
-        <link>https://htext.top/</link>
+        <link>http://localhost:1313/</link>
         <description>The Texts Belong to Huanlan233.</description>
         <generator>Hugo 0.128.2 https://gohugo.io/</generator>
         
@@ -19,15 +19,15 @@
         
             <copyright>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 07 Jul 2024 16:43:46 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 16:50:13 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://htext.top/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
         
         
             <item>
                 <title>博客换新的一些牢骚</title>
-                <link>https://htext.top/posts/de493cc3/</link>
-                <guid isPermaLink="true">https://htext.top/posts/de493cc3/</guid>
+                <link>http://localhost:1313/posts/de493cc3/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/de493cc3/</guid>
                 <pubDate>Sun, 07 Jul 2024 14:11:11 &#43;0800</pubDate>
                 
                 <copyright>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)</copyright>
@@ -35,13 +35,13 @@
                     <description>&lt;p&gt;就在今年的七月，我换下了曾经使用长达了一年之久的Hexo，而后换上了Hugo。这样做一点理由都没有，而且Hugo不想Hexo那般傻瓜式开箱即用，还得自己配置一段时间，也许这就是爱折腾吧。&lt;/p&gt;
 &lt;p&gt;而当我换完Hugo之后，我才发现我的博客已经历经了两年之久，然而文章却不曾发过多少。&lt;/p&gt;
 &lt;p&gt;多少次想写点文章总结些什么却发现，似乎压根就懒得写，又觉得没有那个必要，似乎拿着个博客就是多少展示自己炫耀自己的工具。&lt;/p&gt;
-&lt;p&gt;不过有句话说得好，论迹不论心，论心无完人。换到技能训练、自己修养也是一样的，不管是买新手机炫耀，还是建个网站展示自己，在这过程当中，都是一次次的否定再否定，直到往后，才会发现以前的这种行为是多么傻瓜，倘若连炫耀展示这一步都不走，无非就是还没走过愚昧之山，亦或者已经走过了绝望之谷 &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://htext.top/posts/de493cc3/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。只要在这个过程中，帮助到了他人，提升了自己，哪怕心中认为只是炫耀，那也是赚了。&lt;/p&gt;
+&lt;p&gt;不过有句话说得好，论迹不论心，论心无完人。换到技能训练、自己修养也是一样的，不管是买新手机炫耀，还是建个网站展示自己，在这过程当中，都是一次次的否定再否定，直到往后，才会发现以前的这种行为是多么傻瓜，倘若连炫耀展示这一步都不走，无非就是还没走过愚昧之山，亦或者已经走过了绝望之谷 &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/de493cc3/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。只要在这个过程中，帮助到了他人，提升了自己，哪怕心中认为只是炫耀，那也是赚了。&lt;/p&gt;
 &lt;p&gt;而且既然已经开了这个坑，总要坚持一下，毕竟贵在坚持（还有就是他妈的域名涨价到三十元了不用就亏了）。&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning–Kruger Effect&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://htext.top/posts/de493cc3/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning–Kruger Effect&lt;/a&gt;&amp;#160;&lt;a href=&#34;http://localhost:1313/posts/de493cc3/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -57,7 +57,7 @@
                                 
                                 
                                 
-                                    <category domain="https://htext.top/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                    <category domain="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
                                 
                             
                         
@@ -67,7 +67,7 @@
                                 
                                 
                                 
-                                    <category domain="https://htext.top/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+                                    <category domain="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
                                 
                             
                         
@@ -77,8 +77,8 @@
         
             <item>
                 <title>Minecraft Fabric高版本开发中指令的解析</title>
-                <link>https://htext.top/posts/7d161ded/</link>
-                <guid isPermaLink="true">https://htext.top/posts/7d161ded/</guid>
+                <link>http://localhost:1313/posts/7d161ded/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/7d161ded/</guid>
                 <pubDate>Sat, 05 Aug 2023 15:59:52 &#43;0800</pubDate>
                 
                 <copyright>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)</copyright>
@@ -108,13 +108,13 @@
                                 
                                 
                                 
-                                    <category domain="https://htext.top/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+                                    <category domain="http://localhost:1313/categories/%E7%BC%96%E7%A8%8B/">编程</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://htext.top/categories/minecraft/">Minecraft</category>
+                                    <category domain="http://localhost:1313/categories/minecraft/">Minecraft</category>
                                 
                             
                         
@@ -124,19 +124,19 @@
                                 
                                 
                                 
-                                    <category domain="https://htext.top/tags/minecraft/">Minecraft</category>
+                                    <category domain="http://localhost:1313/tags/minecraft/">Minecraft</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://htext.top/tags/fabric/">Fabric</category>
+                                    <category domain="http://localhost:1313/tags/fabric/">Fabric</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://htext.top/tags/java/">Java</category>
+                                    <category domain="http://localhost:1313/tags/java/">Java</category>
                                 
                             
                         
@@ -146,8 +146,8 @@
         
             <item>
                 <title>Hello World</title>
-                <link>https://htext.top/posts/4a17b156/</link>
-                <guid isPermaLink="true">https://htext.top/posts/4a17b156/</guid>
+                <link>http://localhost:1313/posts/4a17b156/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/4a17b156/</guid>
                 <pubDate>Sun, 05 Jun 2022 18:30:59 &#43;0800</pubDate>
                 
                 <copyright>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)</copyright>
@@ -166,7 +166,7 @@
                                 
                                 
                                 
-                                    <category domain="https://htext.top/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+                                    <category domain="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
                                 
                             
                         
@@ -176,7 +176,7 @@
                                 
                                 
                                 
-                                    <category domain="https://htext.top/tags/%E7%BA%AA%E5%BF%B5/">纪念</category>
+                                    <category domain="http://localhost:1313/tags/%E7%BA%AA%E5%BF%B5/">纪念</category>
                                 
                             
                         
