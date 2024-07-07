@@ -4,20 +4,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Huanlan233&#39;s Texts</title>
     <subtitle type="html">The Texts Belong to Huanlan233.</subtitle>
-    <updated>2024-07-07T16:03:22&#43;08:00</updated>
-    <id>http://localhost:1313/</id>
-    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <updated>2024-07-07T16:43:46&#43;08:00</updated>
+    <id>https://htext.top/</id>
+    <link rel="alternate" type="text/html" href="https://htext.top/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://htext.top/atom.xml" />
     <author>
             <name>Huanlan233</name>
-            <uri>http://localhost:1313/</uri>
+            <uri>https://htext.top/</uri>
             </author>
     <rights>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.128.2">Hugo</generator>
         <entry>
             <title type="text">博客换新的一些牢骚</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/de493cc3/" />
-            <id>http://localhost:1313/posts/de493cc3/</id>
+            <link rel="alternate" type="text/html" href="https://htext.top/posts/de493cc3/" />
+            <id>https://htext.top/posts/de493cc3/</id>
             <updated>2024-07-07T14:29:04&#43;08:00</updated>
             <published>2024-07-07T14:11:11&#43;08:00</published>
             <author>
@@ -29,13 +29,13 @@
                 <content type="html">&lt;p&gt;就在今年的七月，我换下了曾经使用长达了一年之久的Hexo，而后换上了Hugo。这样做一点理由都没有，而且Hugo不想Hexo那般傻瓜式开箱即用，还得自己配置一段时间，也许这就是爱折腾吧。&lt;/p&gt;
 &lt;p&gt;而当我换完Hugo之后，我才发现我的博客已经历经了两年之久，然而文章却不曾发过多少。&lt;/p&gt;
 &lt;p&gt;多少次想写点文章总结些什么却发现，似乎压根就懒得写，又觉得没有那个必要，似乎拿着个博客就是多少展示自己炫耀自己的工具。&lt;/p&gt;
-&lt;p&gt;不过有句话说得好，论迹不论心，论心无完人。换到技能训练、自己修养也是一样的，不管是买新手机炫耀，还是建个网站展示自己，在这过程当中，都是一次次的否定再否定，直到往后，才会发现以前的这种行为是多么傻瓜，倘若连炫耀展示这一步都不走，无非就是还没走过愚昧之山，亦或者已经走过了绝望之谷 &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/de493cc3/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。只要在这个过程中，帮助到了他人，提升了自己，哪怕心中认为只是炫耀，那也是赚了。&lt;/p&gt;
+&lt;p&gt;不过有句话说得好，论迹不论心，论心无完人。换到技能训练、自己修养也是一样的，不管是买新手机炫耀，还是建个网站展示自己，在这过程当中，都是一次次的否定再否定，直到往后，才会发现以前的这种行为是多么傻瓜，倘若连炫耀展示这一步都不走，无非就是还没走过愚昧之山，亦或者已经走过了绝望之谷 &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://htext.top/posts/de493cc3/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。只要在这个过程中，帮助到了他人，提升了自己，哪怕心中认为只是炫耀，那也是赚了。&lt;/p&gt;
 &lt;p&gt;而且既然已经开了这个坑，总要坚持一下，毕竟贵在坚持（还有就是他妈的域名涨价到三十元了不用就亏了）。&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning–Kruger Effect&lt;/a&gt;&amp;#160;&lt;a href=&#34;http://localhost:1313/posts/de493cc3/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning–Kruger Effect&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://htext.top/posts/de493cc3/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -51,7 +51,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/" term="杂谈" label="杂谈" />
+                                <category scheme="https://htext.top/categories/%E6%9D%82%E8%B0%88/" term="杂谈" label="杂谈" />
                             
                         
                     
@@ -61,7 +61,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
+                                <category scheme="https://htext.top/tags/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
                             
                         
                     
@@ -71,8 +71,8 @@
     
         <entry>
             <title type="text">Minecraft Fabric高版本开发中指令的解析</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/7d161ded/" />
-            <id>http://localhost:1313/posts/7d161ded/</id>
+            <link rel="alternate" type="text/html" href="https://htext.top/posts/7d161ded/" />
+            <id>https://htext.top/posts/7d161ded/</id>
             <updated>2024-07-07T14:47:24&#43;08:00</updated>
             <published>2023-08-05T15:59:52&#43;08:00</published>
             <author>
@@ -106,13 +106,13 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
+                                <category scheme="https://htext.top/categories/%E7%BC%96%E7%A8%8B/" term="编程" label="编程" />
                             
                         
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/minecraft/" term="Minecraft" label="Minecraft" />
+                                <category scheme="https://htext.top/categories/minecraft/" term="Minecraft" label="Minecraft" />
                             
                         
                     
@@ -122,19 +122,19 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/minecraft/" term="Minecraft" label="Minecraft" />
+                                <category scheme="https://htext.top/tags/minecraft/" term="Minecraft" label="Minecraft" />
                             
                         
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/fabric/" term="Fabric" label="Fabric" />
+                                <category scheme="https://htext.top/tags/fabric/" term="Fabric" label="Fabric" />
                             
                         
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/java/" term="Java" label="Java" />
+                                <category scheme="https://htext.top/tags/java/" term="Java" label="Java" />
                             
                         
                     
@@ -144,8 +144,8 @@
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/4a17b156/" />
-            <id>http://localhost:1313/posts/4a17b156/</id>
+            <link rel="alternate" type="text/html" href="https://htext.top/posts/4a17b156/" />
+            <id>https://htext.top/posts/4a17b156/</id>
             <updated>2024-07-07T14:05:58&#43;08:00</updated>
             <published>2022-06-05T18:30:59&#43;08:00</published>
             <author>
@@ -168,7 +168,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/" term="杂谈" label="杂谈" />
+                                <category scheme="https://htext.top/categories/%E6%9D%82%E8%B0%88/" term="杂谈" label="杂谈" />
                             
                         
                     
@@ -178,7 +178,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/%E7%BA%AA%E5%BF%B5/" term="纪念" label="纪念" />
+                                <category scheme="https://htext.top/tags/%E7%BA%AA%E5%BF%B5/" term="纪念" label="纪念" />
                             
                         
                     
