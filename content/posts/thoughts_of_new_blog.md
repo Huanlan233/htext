@@ -17,4 +17,8 @@ slug = "de493cc3"
 
 而且既然已经开了这个坑，总要坚持一下，毕竟贵在坚持（还有就是他妈的域名涨价到三十元了不用就亏了）。
 
+---
+
+关于旧文章的话，大部分都是水文，没什么留存的必要性了。于是干脆留下了真正有价值的文章。
+
 [^1]: [Dunning–Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
