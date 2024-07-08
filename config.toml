@@ -222,7 +222,7 @@ uglyURLs = false
         name = "留言板"
         weight = 5
         pre = "internal"
-        post = "user-circle"
+        post = "comment"
     [[menu.main]]
         pageref = "/about/"
         name = "关于"
@@ -622,6 +622,7 @@ uglyURLs = false
     twikooEnvId = "https://twikoo.api.htext.top"
     twikooPath = "window.location.pathname"
     twikooRegion = ""
+    twikooLang = "zh"
 
     ## Disqus
     enableDisqus = false

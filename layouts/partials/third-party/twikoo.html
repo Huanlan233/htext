@@ -23,16 +23,13 @@
             });
         }
     }
-
-
-    
-
     function newTwikoo() {
         twikoo.init({
             el: "#twikoo",
             envId: {{ .Site.Params.twikooEnvId }},
             path: {{ .Site.Params.twikooPath }},
-            region: {{ .Site.Params.twikooRegion }}
+            region: {{ .Site.Params.twikooRegion }},
+            lang: {{ .Site.Params.twikooLang }}
         });
     }
 </script>
