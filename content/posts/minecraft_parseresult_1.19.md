@@ -2,7 +2,7 @@
 title = "Minecraft Fabric高版本开发中指令的解析"
 date = 2023-08-05T15:59:52+08:00
 draft = false
-categories = ["Code", "Minecraft"]
+categories = ["Minecraft"]
 tags = ["Minecraft", "Fabric", "Java"]
 slug = "7d161ded"
 image = "https://picsum.photos/seed/7d161ded/800/600"
