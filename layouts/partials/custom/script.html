@@ -1,9 +1,0 @@
-{{ if and (.Params.comments | default .Site.Params.enableComments) (eq hugo.Environment "production") }}
-    {{ if or (in .Site.Params.mainSections .Section) .Params.comments }}
-
-        {{ if .Site.Params.enableTwikoo }}
-            {{ partial "third-party/twikoo.html" . }}
-        {{ end }}
-
-    {{ end }}
-{{ end }}

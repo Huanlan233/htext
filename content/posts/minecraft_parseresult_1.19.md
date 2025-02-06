@@ -2,9 +2,10 @@
 title = "Minecraft Fabric高版本开发中指令的解析"
 date = 2023-08-05T15:59:52+08:00
 draft = false
-categories = ["编程", "Minecraft"]
+categories = ["Code", "Minecraft"]
 tags = ["Minecraft", "Fabric", "Java"]
 slug = "7d161ded"
+image = "https://picsum.photos/seed/7d161ded/800/600"
 +++
 
 从 1.19 之后 `getCommandManager().execute()` 中 `execute()` 第一个形参从 `ServerCommandSource` 类变成了 `ParseResult<ServerCommandSource>` 类了。

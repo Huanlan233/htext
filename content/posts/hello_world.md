@@ -2,9 +2,10 @@
 title = "Hello World"
 date = 2022-06-05T18:30:59+08:00
 draft = false
-categories = ["杂谈"]
-tags = ["纪念"]
+categories = ["Talk"]
+tags = ["Talk"]
 slug = "4a17b156"
+image = "https://picsum.photos/seed/4a17b156/800/600"
 +++
 
 "Hello, world"程序是指在计算机屏幕上输出"Hello world"这行字符串的计算机程序，"Hello World"的中文意思是“你好，世界。”
