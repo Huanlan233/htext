@@ -1,14 +1,10 @@
 +++
-title = "Java 笔记"
+title = "Java 基础笔记"
 date = 2025-01-17T20:19:32+08:00
 draft = false
 categories = ["Code","Java"]
 tags = ["Java","Note"]
 slug = "a8bed2e4"
-
-[[params.widgets.homepage]]
-    type = "toc"
-
 image = "https://picsum.photos/seed/a8bed2e4/800/600"
 +++
 
